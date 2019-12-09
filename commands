@@ -1,0 +1,21 @@
+npm i @capacitor/core @capacitor/cli
+
+## Iniciar capacitor
+npx cap init
+
+## Build
+ionic build
+
+## Add Platform
+npx cap add android
+
+## Abrir android
+npx cap open android
+
+## Sincronizar cambios
+ionic build
+npx cap sync
+npx cap update
+
+## sincronizar html css
+npc cap copy
