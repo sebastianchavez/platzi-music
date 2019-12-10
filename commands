@@ -19,3 +19,6 @@ npx cap update
 
 ## sincronizar html css
 npc cap copy
+
+## Instalar storage
+npm install --save @ionic/storage --save-exact
